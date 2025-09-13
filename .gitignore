@@ -1,0 +1,3 @@
+# Ignore AWS CLI credentials
+.aws/
+*.csv
